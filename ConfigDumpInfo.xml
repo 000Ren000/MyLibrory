@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.Книги" id="6ab7ffff-6ec5-4b9b-a5c7-c694f31e4e41" configVersion="6a723d38accd744398cc18a6a52c6f7200000000">
+			<Metadata name="Catalog.Книги.Attribute.НазваниеКниги" id="3a58a83e-7a91-49d0-954c-71806874606b"/>
+			<Metadata name="Catalog.Книги.Attribute.Описание" id="c48365bc-07dc-4842-86b9-c644c418fd64"/>
+			<Metadata name="Catalog.Книги.Attribute.Автор" id="ecd3eeb0-681c-4154-aaaf-e3ac85b1f4da"/>
+		</Metadata>
+		<Metadata name="Catalog.Книги.Form.ФормаЭлемента" id="79d31509-c787-4cf5-819f-76cf15e59089" configVersion="283551655b8dc6409aef0eb50b7f081b00000000"/>
+		<Metadata name="Catalog.Книги.Form.ФормаЭлемента.Form" id="79d31509-c787-4cf5-819f-76cf15e59089.0" configVersion="f749ba1791a07c4e899023721401f49800000000"/>
+		<Metadata name="Catalog.Книгохранилище" id="dda48d5b-3c45-4c77-866d-83210c2a3525" configVersion="ee13d1cebbda8141afdf069d6753a9e300000000"/>
+		<Metadata name="Catalog.Сотрудники" id="674208b6-ada8-4bd7-aad7-d2f0fc7b0c29" configVersion="2a5745502c2644479f33b72edc5844ca00000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Долдность" id="2e8e3d9b-8bda-4ab5-85c8-0a3983122119"/>
+		</Metadata>
+		<Metadata name="Catalog.Стелажи" id="025b17ed-cfce-4abd-b210-a8f4b65a3c48" configVersion="877eb1176bf9ae49a7a7645d1490fba100000000">
+			<Metadata name="Catalog.Стелажи.TabularSection.Полки" id="3fed231b-0b9f-4b67-adb6-3ece8c81aa98"/>
+			<Metadata name="Catalog.Стелажи.TabularSection.Полки.Attribute.Наименование" id="d388b780-c57f-45e5-b8be-fc734b76746c"/>
+		</Metadata>
+		<Metadata name="Catalog.Стелажи.Form.ФормаЭлемента" id="d70c3bd4-3278-4a1d-87e5-536afef9a407" configVersion="fd100c66f3366442a5c6d6e30293b0f600000000"/>
+		<Metadata name="Catalog.Стелажи.Form.ФормаЭлемента.Form" id="d70c3bd4-3278-4a1d-87e5-536afef9a407.0" configVersion="3ad92dec4fc7c644b332f11b6d36d1c600000000"/>
+		<Metadata name="Catalog.Читатели" id="e56f67d7-3945-491b-b50e-97f3ed97bd30" configVersion="33b8f351a4dca64483b3c0246107492f00000000"/>
+		<Metadata name="Configuration.Библиотека" id="7440c35e-db53-4bcf-97e8-3b44aa7ed4cf" configVersion="c248c4bd4c5ec8439dab462e41cd79cb00000000"/>
+		<Metadata name="Configuration.Библиотека.Splash" id="195e062c-afb7-4a58-b130-8970461c0359.2" configVersion="4f3fc7b34d54ca4e956a248198bc2d7500000000"/>
+		<Metadata name="Language.Русский" id="97581335-261a-49a0-bca1-5520d15b9c92" configVersion="c506f73d4e4931429ea9f6469c98dc2800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
