@@ -32,11 +32,11 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Библиотека</Name>
+			<Name>НашаБиблиотека</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Библиотека</v8:content>
+					<v8:content>Наша библиотека</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

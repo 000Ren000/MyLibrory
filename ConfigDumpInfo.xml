@@ -12,15 +12,15 @@
 		<Metadata name="Catalog.Сотрудники" id="674208b6-ada8-4bd7-aad7-d2f0fc7b0c29" configVersion="2a5745502c2644479f33b72edc5844ca00000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Долдность" id="2e8e3d9b-8bda-4ab5-85c8-0a3983122119"/>
 		</Metadata>
-		<Metadata name="Catalog.Стелажи" id="025b17ed-cfce-4abd-b210-a8f4b65a3c48" configVersion="877eb1176bf9ae49a7a7645d1490fba100000000">
+		<Metadata name="Catalog.Стелажи" id="025b17ed-cfce-4abd-b210-a8f4b65a3c48" configVersion="cf97b0a68331174a8bbefb63a2af209100000000">
 			<Metadata name="Catalog.Стелажи.TabularSection.Полки" id="3fed231b-0b9f-4b67-adb6-3ece8c81aa98"/>
 			<Metadata name="Catalog.Стелажи.TabularSection.Полки.Attribute.Наименование" id="d388b780-c57f-45e5-b8be-fc734b76746c"/>
 		</Metadata>
 		<Metadata name="Catalog.Стелажи.Form.ФормаЭлемента" id="d70c3bd4-3278-4a1d-87e5-536afef9a407" configVersion="fd100c66f3366442a5c6d6e30293b0f600000000"/>
 		<Metadata name="Catalog.Стелажи.Form.ФормаЭлемента.Form" id="d70c3bd4-3278-4a1d-87e5-536afef9a407.0" configVersion="3ad92dec4fc7c644b332f11b6d36d1c600000000"/>
 		<Metadata name="Catalog.Читатели" id="e56f67d7-3945-491b-b50e-97f3ed97bd30" configVersion="33b8f351a4dca64483b3c0246107492f00000000"/>
-		<Metadata name="Configuration.Библиотека" id="7440c35e-db53-4bcf-97e8-3b44aa7ed4cf" configVersion="c248c4bd4c5ec8439dab462e41cd79cb00000000"/>
-		<Metadata name="Configuration.Библиотека.Splash" id="195e062c-afb7-4a58-b130-8970461c0359.2" configVersion="4f3fc7b34d54ca4e956a248198bc2d7500000000"/>
+		<Metadata name="Configuration.НашаБиблиотека" id="7440c35e-db53-4bcf-97e8-3b44aa7ed4cf" configVersion="c33ff656c3076c41af834f702b6c7fbf00000000"/>
+		<Metadata name="Configuration.НашаБиблиотека.Splash" id="195e062c-afb7-4a58-b130-8970461c0359.2" configVersion="4f3fc7b34d54ca4e956a248198bc2d7500000000"/>
 		<Metadata name="Language.Русский" id="97581335-261a-49a0-bca1-5520d15b9c92" configVersion="c506f73d4e4931429ea9f6469c98dc2800000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
