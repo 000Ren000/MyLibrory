@@ -212,7 +212,7 @@
 			<ConfigurationInformationAddress/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
-			<ModalityUseMode>Use</ModalityUseMode>
+			<ModalityUseMode>DontUse</ModalityUseMode>
 			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_18</CompatibilityMode>
@@ -225,6 +225,7 @@
 			<Catalog>Книгохранилище</Catalog>
 			<Catalog>Книги</Catalog>
 			<Catalog>Стелажи</Catalog>
+			<Catalog>Должности</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
