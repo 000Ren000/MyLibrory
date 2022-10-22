@@ -220,12 +220,17 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Справочники</Subsystem>
+			<Subsystem>РаботаСЧитателем</Subsystem>
 			<Catalog>Читатели</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Книгохранилище</Catalog>
 			<Catalog>Книги</Catalog>
 			<Catalog>Стелажи</Catalog>
 			<Catalog>Должности</Catalog>
+			<Catalog>АвторКниги</Catalog>
+			<Document>ВыдачаКниг</Document>
+			<Document>ВозвратКниг</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
