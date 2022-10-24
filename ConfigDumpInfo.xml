@@ -24,8 +24,7 @@
 		<Metadata name="Catalog.Книги.Form.ФормаСписка.Form" id="41033450-e0cf-4352-a5d4-c56cb7b4acbe.0" configVersion="0368f2d2ded2a140add80c3a15e2470e00000000"/>
 		<Metadata name="Catalog.Книги.Form.ФормаЭлемента" id="79d31509-c787-4cf5-819f-76cf15e59089" configVersion="25c9b32335c2b94fb5b27b2f4623760e00000000"/>
 		<Metadata name="Catalog.Книги.Form.ФормаЭлемента.Form" id="79d31509-c787-4cf5-819f-76cf15e59089.0" configVersion="21fd8a0082ca8a439f6b483be7ca755000000000"/>
-		<Metadata name="Catalog.Книгохранилище" id="dda48d5b-3c45-4c77-866d-83210c2a3525" configVersion="ee13d1cebbda8141afdf069d6753a9e300000000"/>
-		<Metadata name="Catalog.Сотрудники" id="674208b6-ada8-4bd7-aad7-d2f0fc7b0c29" configVersion="2ffaa2a0dfb4124e8d03b7f721aa6a9100000000">
+		<Metadata name="Catalog.Сотрудники" id="674208b6-ada8-4bd7-aad7-d2f0fc7b0c29" configVersion="5c1f80839db03d46aae224b5563721d100000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Долдность" id="2e8e3d9b-8bda-4ab5-85c8-0a3983122119"/>
 		</Metadata>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора" id="553cb1b6-9192-4826-9212-f6bc28a6bb77" configVersion="4982dd43d67cba478cb7a34db726fdd200000000"/>
@@ -37,8 +36,8 @@
 		<Metadata name="Catalog.Стелажи.Form.ФормаЭлемента" id="d70c3bd4-3278-4a1d-87e5-536afef9a407" configVersion="fd100c66f3366442a5c6d6e30293b0f600000000"/>
 		<Metadata name="Catalog.Стелажи.Form.ФормаЭлемента.Form" id="d70c3bd4-3278-4a1d-87e5-536afef9a407.0" configVersion="3ad92dec4fc7c644b332f11b6d36d1c600000000"/>
 		<Metadata name="Catalog.Читатели" id="e56f67d7-3945-491b-b50e-97f3ed97bd30" configVersion="33b8f351a4dca64483b3c0246107492f00000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначенияСервер" id="cf169d7f-7ad3-4579-ac6d-b98265301c4a" configVersion="9bbb20cbb0f32545a55b1ecb7584fd2d00000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначенияСервер.Module" id="cf169d7f-7ad3-4579-ac6d-b98265301c4a.0" configVersion="ac69280a8d5b824fad2217d6e8c418e300000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСервер" id="cf169d7f-7ad3-4579-ac6d-b98265301c4a" configVersion="9a2da30b71f6a24ea8c26e977a02535100000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСервер.Module" id="cf169d7f-7ad3-4579-ac6d-b98265301c4a.0" configVersion="674f927bd88458449c5972279f26f7d300000000"/>
 		<Metadata name="CommonPicture.КартинкаОтчеты" id="d322015c-b5ab-4bf7-824f-fb403639e34b" configVersion="e0b72d9c4dcc104ea50535036c03d6d800000000"/>
 		<Metadata name="CommonPicture.КартинкаОтчеты.Picture" id="d322015c-b5ab-4bf7-824f-fb403639e34b.0" configVersion="ce559d6ce1a0ba43b25d90721ef507a000000000"/>
 		<Metadata name="CommonPicture.КартинкаСервис" id="216c4099-3583-4398-bdd7-9948ae3a11df" configVersion="a671dba3db353746922e0f27fb9b249e00000000"/>
@@ -47,7 +46,7 @@
 		<Metadata name="CommonPicture.КартинкаСправочники.Picture" id="d7343487-6799-484b-88a9-1b3b3d5003ee.0" configVersion="a56486d51a933044bf9b2312174bc5d600000000"/>
 		<Metadata name="CommonPicture.КартинкаЧитатель" id="2e56b081-45f9-48ad-bc74-337bb0fd2f20" configVersion="db37e2d12ecac2468b3812ecffb92f0f00000000"/>
 		<Metadata name="CommonPicture.КартинкаЧитатель.Picture" id="2e56b081-45f9-48ad-bc74-337bb0fd2f20.0" configVersion="41930ce4baae2441a47e350feeea376e00000000"/>
-		<Metadata name="Configuration.НашаБиблиотека" id="7440c35e-db53-4bcf-97e8-3b44aa7ed4cf" configVersion="24be9cbd824d2c4799ff16f27da912c200000000"/>
+		<Metadata name="Configuration.НашаБиблиотека" id="7440c35e-db53-4bcf-97e8-3b44aa7ed4cf" configVersion="6d96a7438f903e498de89e60d66e67ac00000000"/>
 		<Metadata name="Configuration.НашаБиблиотека.ClientApplicationInterface" id="195e062c-afb7-4a58-b130-8970461c0359.b" configVersion="82551e8957780445a4428dd00c8a619f00000000"/>
 		<Metadata name="Configuration.НашаБиблиотека.CommandInterface" id="195e062c-afb7-4a58-b130-8970461c0359.a" configVersion="31f54e9052fbe3479ca146196af11c9100000000"/>
 		<Metadata name="Configuration.НашаБиблиотека.Splash" id="195e062c-afb7-4a58-b130-8970461c0359.2" configVersion="4f3fc7b34d54ca4e956a248198bc2d7500000000"/>
@@ -59,8 +58,8 @@
 			<Metadata name="Document.ВозвратКниг.Attribute.Читатель" id="b139f9ae-3586-40b3-b96e-893b51265314"/>
 			<Metadata name="Document.ВозвратКниг.TabularSection.СписокКниг.Attribute.Книга" id="fffc17a5-f51e-4680-9699-cc86ece45bb9"/>
 		</Metadata>
-		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента" id="21f526de-eb51-4903-bec0-2c3ebe8ab031" configVersion="3c9e2f4ef479d446b76b7f52180da53100000000"/>
-		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента.Form" id="21f526de-eb51-4903-bec0-2c3ebe8ab031.0" configVersion="85ca9de98aa7cd4993f0c6f3ba65d3be00000000"/>
+		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента" id="21f526de-eb51-4903-bec0-2c3ebe8ab031" configVersion="dbc0ae46cd92204c891e36028e47267600000000"/>
+		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента.Form" id="21f526de-eb51-4903-bec0-2c3ebe8ab031.0" configVersion="5cee1e511b2f1c46a6c5e4f74ded630100000000"/>
 		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента.Help" id="21f526de-eb51-4903-bec0-2c3ebe8ab031.1" configVersion="6384255a1a46624688d099ddd60a9df700000000"/>
 		<Metadata name="Document.ВозвратКниг.Help" id="238b84a3-d437-48e3-a255-60e49f41aab1.1" configVersion="78ccd5ce9f69bc469d533fd25c525b5800000000"/>
 		<Metadata name="Document.ВозвратКниг.ManagerModule" id="238b84a3-d437-48e3-a255-60e49f41aab1.2" configVersion="7243284ee841564a844cbdc3b7fc2d1000000000"/>
@@ -73,8 +72,8 @@
 			<Metadata name="Document.ВыдачаКниг.Attribute.Сотрудник" id="de382005-372b-4f87-8efc-475f960241f6"/>
 			<Metadata name="Document.ВыдачаКниг.Attribute.Читатель" id="fcc7b692-2def-41c2-b438-68a102e2342f"/>
 		</Metadata>
-		<Metadata name="Document.ВыдачаКниг.Form.ФормаДокумента" id="5fa21c4b-fc49-4337-8c14-f89a67ceccb8" configVersion="1ce7a035af213e41a368e4ef804d6cb700000000"/>
-		<Metadata name="Document.ВыдачаКниг.Form.ФормаДокумента.Form" id="5fa21c4b-fc49-4337-8c14-f89a67ceccb8.0" configVersion="dfc241e05f8ac2499ee9c5047f714a1e00000000"/>
+		<Metadata name="Document.ВыдачаКниг.Form.ФормаДокумента" id="5fa21c4b-fc49-4337-8c14-f89a67ceccb8" configVersion="b38df3c3eab9514b9acd41c00195d4a400000000"/>
+		<Metadata name="Document.ВыдачаКниг.Form.ФормаДокумента.Form" id="5fa21c4b-fc49-4337-8c14-f89a67ceccb8.0" configVersion="f6dd33bfed772448b6b22e9cfcc3ae2100000000"/>
 		<Metadata name="Document.ВыдачаКниг.ObjectModule" id="20285c51-62e4-47ba-921f-bed6811ef74c.0" configVersion="2538802bf56a154ebe42dfaf0829b0f400000000"/>
 		<Metadata name="Document.РазмещениеКнигПоПолкам" id="0ed1091a-e6fd-4fbe-8739-d9382ca18c08" configVersion="48e6e72b6cda2844a0fe190971298a1500000000">
 			<Metadata name="Document.РазмещениеКнигПоПолкам.Attribute.Сотрудник" id="0b134737-bd2e-4260-807c-76f36a88b473"/>
@@ -88,11 +87,15 @@
 		<Metadata name="Document.РазмещениеКнигПоПолкам.ObjectModule" id="0ed1091a-e6fd-4fbe-8739-d9382ca18c08.0" configVersion="2a2d2b6572d012449c256582e1ee224c00000000"/>
 		<Metadata name="Language.Русский" id="97581335-261a-49a0-bca1-5520d15b9c92" configVersion="c506f73d4e4931429ea9f6469c98dc2800000000"/>
 		<Metadata name="Report.КнигиНаРуках" id="72d2d263-3b97-4716-a0ba-eef9b74bf972" configVersion="f3e31805d336d44691a24f517931fd9900000000"/>
-		<Metadata name="Report.КнигиНаРуках.Template.ОсновнаяСхемаКомпоновкиДанных" id="c23d635c-3eee-4069-b07e-3007e1847bf5" configVersion="674ad7a1f820a448addb152f6ec4f2ea00000000"/>
-		<Metadata name="Report.КнигиНаРуках.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="c23d635c-3eee-4069-b07e-3007e1847bf5.0" configVersion="166c5510a7b3924d929a168af84c708e00000000"/>
+		<Metadata name="Report.КнигиНаРуках.Template.ОсновнаяСхемаКомпоновкиДанных" id="c23d635c-3eee-4069-b07e-3007e1847bf5" configVersion="b770c7305cc7b641b32f52475548a16f00000000"/>
+		<Metadata name="Report.КнигиНаРуках.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="c23d635c-3eee-4069-b07e-3007e1847bf5.0" configVersion="20a3a699e9ce5a42b03a06a5b05241b200000000"/>
 		<Metadata name="Report.МестаХраненияКниг" id="5cd3a6c9-92c6-40b7-b99d-7666fc7993c0" configVersion="84445d86f0d3b34293e889751de13fe400000000"/>
 		<Metadata name="Report.МестаХраненияКниг.Template.ОсновнаяСхемаКомпоновкиДанных" id="1ce024ae-1068-433f-94f8-a02ab6d30d22" configVersion="9fdfea2c8dc8724c830a7f1f5d5b67e200000000"/>
 		<Metadata name="Report.МестаХраненияКниг.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="1ce024ae-1068-433f-94f8-a02ab6d30d22.0" configVersion="bf233a58f37f224d8e5253930136120b00000000"/>
+		<Metadata name="Role.Администратор" id="c498e59c-b7a8-4b98-90b0-333b60e3b2dc" configVersion="d7ac9f3d6a581340b8ed9ee72cc8659600000000"/>
+		<Metadata name="Role.Администратор.Rights" id="c498e59c-b7a8-4b98-90b0-333b60e3b2dc.0" configVersion="37c76dffd2df6f44b852cb2ac1afcbae00000000"/>
+		<Metadata name="Role.СтандартныеПрава" id="4bedb333-297b-403e-bedc-0db1270d32b6" configVersion="e0b27d66b16eb241b9449ada5fb6b4c000000000"/>
+		<Metadata name="Role.СтандартныеПрава.Rights" id="4bedb333-297b-403e-bedc-0db1270d32b6.0" configVersion="cae255b7dafec64a92ee2627353e5f6a00000000"/>
 		<Metadata name="Style.ЗеленыйСтиль" id="b78844a3-66f9-4f72-9083-c8eab79507e2" configVersion="18b585210c82424eb31079130384108e00000000"/>
 		<Metadata name="Style.ЗеленыйСтиль.Style" id="b78844a3-66f9-4f72-9083-c8eab79507e2.0" configVersion="b5dc6d3726b40a4fb0e279c19e2fc93500000000"/>
 		<Metadata name="Subsystem.Отчеты" id="3c58ac1b-7927-4251-af71-a03ef2dc1866" configVersion="147c641f0936564ba64fcae9be025a9600000000"/>

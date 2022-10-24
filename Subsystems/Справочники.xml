@@ -21,7 +21,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Читатели</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Книгохранилище</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">dda48d5b-3c45-4c77-866d-83210c2a3525</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Стелажи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Книги</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Должности</xr:Item>
