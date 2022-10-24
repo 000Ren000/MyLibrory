@@ -20,6 +20,8 @@
 			</Picture>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.МестаХраненияКниг</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Style.ЗеленыйСтиль</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.КнигиНаРуках</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

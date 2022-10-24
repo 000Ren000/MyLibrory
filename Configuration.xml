@@ -61,7 +61,9 @@
 			<FormDataSettingsStorage/>
 			<DynamicListsUserSettingsStorage/>
 			<URLExternalDataStorage/>
-			<Content/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Style.ЗеленыйСтиль</xr:Item>
+			</Content>
 			<DefaultReportForm/>
 			<DefaultReportVariantForm/>
 			<DefaultReportSettingsForm/>
@@ -224,6 +226,7 @@
 			<Subsystem>РаботаСЧитателем</Subsystem>
 			<Subsystem>Сервис</Subsystem>
 			<Subsystem>Отчеты</Subsystem>
+			<Style>ЗеленыйСтиль</Style>
 			<CommonPicture>КартинкаСервис</CommonPicture>
 			<CommonPicture>КартинкаОтчеты</CommonPicture>
 			<CommonPicture>КартинкаЧитатель</CommonPicture>
@@ -240,7 +243,9 @@
 			<Document>ВозвратКниг</Document>
 			<Document>РазмещениеКнигПоПолкам</Document>
 			<Report>МестаХраненияКниг</Report>
+			<Report>КнигиНаРуках</Report>
 			<AccumulationRegister>ОсвтаткиКнигНаПолках</AccumulationRegister>
+			<AccumulationRegister>КнигиНавРуках</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
