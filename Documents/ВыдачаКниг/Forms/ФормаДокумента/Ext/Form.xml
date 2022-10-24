@@ -95,16 +95,23 @@
 					<EditMode>EnterOnInput</EditMode>
 					<ContextMenu name="СписокКнигКнигаКонтекстноеМеню" id="30"/>
 					<ExtendedTooltip name="СписокКнигКнигаРасширеннаяПодсказка" id="31"/>
+					<Events>
+						<Event name="OnChange">СписокКнигКнигаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="СписокКнигСтелаж" id="32">
 					<DataPath>Объект.СписокКниг.Стелаж</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
+					<TextColor>#6E6E6E</TextColor>
 					<ContextMenu name="СписокКнигСтелажКонтекстноеМеню" id="33"/>
 					<ExtendedTooltip name="СписокКнигСтелажРасширеннаяПодсказка" id="34"/>
 				</InputField>
 				<InputField name="СписокКнигПолка" id="35">
 					<DataPath>Объект.СписокКниг.Полка</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
+					<TextColor>#6E6E6E</TextColor>
 					<ContextMenu name="СписокКнигПолкаКонтекстноеМеню" id="36"/>
 					<ExtendedTooltip name="СписокКнигПолкаРасширеннаяПодсказка" id="37"/>
 				</InputField>

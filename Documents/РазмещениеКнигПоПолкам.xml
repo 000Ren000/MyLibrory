@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.15">
-	<Document uuid="20285c51-62e4-47ba-921f-bed6811ef74c">
+	<Document uuid="0ed1091a-e6fd-4fbe-8739-d9382ca18c08">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.ВыдачаКниг" category="Object">
-				<xr:TypeId>bc042246-958f-4e36-b5c3-8d8225153b07</xr:TypeId>
-				<xr:ValueId>41930cc8-2838-4cef-b639-20557169dc70</xr:ValueId>
+			<xr:GeneratedType name="DocumentObject.РазмещениеКнигПоПолкам" category="Object">
+				<xr:TypeId>7f38a119-6c2b-4d5a-9a34-2b2ef5df9f65</xr:TypeId>
+				<xr:ValueId>bf0887f8-517e-45b2-be19-c609328db5b9</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.ВыдачаКниг" category="Ref">
-				<xr:TypeId>d8c720f7-a31b-4022-b35e-29e9ff369bdb</xr:TypeId>
-				<xr:ValueId>4fb265e2-274b-4879-8449-7f592667fffc</xr:ValueId>
+			<xr:GeneratedType name="DocumentRef.РазмещениеКнигПоПолкам" category="Ref">
+				<xr:TypeId>d122bf48-f0ea-4d69-8450-4fe6cbbf5920</xr:TypeId>
+				<xr:ValueId>0c7918ad-9f3c-4e7c-9e5e-bd20ee226ef2</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.ВыдачаКниг" category="Selection">
-				<xr:TypeId>bd0e359d-5ae3-47d7-be1b-5c35cc303e68</xr:TypeId>
-				<xr:ValueId>b19640ae-e64e-44c1-9c5d-0933f88e5128</xr:ValueId>
+			<xr:GeneratedType name="DocumentSelection.РазмещениеКнигПоПолкам" category="Selection">
+				<xr:TypeId>116e400d-5b4d-4e4d-adcb-813ae2b52f67</xr:TypeId>
+				<xr:ValueId>2db19e77-4efd-432b-8dd0-91f814d72aa6</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.ВыдачаКниг" category="List">
-				<xr:TypeId>b2f44c38-9170-424a-b022-be9e0774a552</xr:TypeId>
-				<xr:ValueId>5147186b-628b-4c4d-a2eb-1504f22b9f43</xr:ValueId>
+			<xr:GeneratedType name="DocumentList.РазмещениеКнигПоПолкам" category="List">
+				<xr:TypeId>ce065169-f6fa-48c5-8c91-ee9f1ad4037d</xr:TypeId>
+				<xr:ValueId>3775514c-8a9c-4681-9fbc-c016472bbe7a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.ВыдачаКниг" category="Manager">
-				<xr:TypeId>0ec479eb-cd62-4bed-b301-456232cdef92</xr:TypeId>
-				<xr:ValueId>12d5b327-fa43-42d8-ac63-474f2a1b859f</xr:ValueId>
+			<xr:GeneratedType name="DocumentManager.РазмещениеКнигПоПолкам" category="Manager">
+				<xr:TypeId>cf54d038-125e-4f08-873e-6b75e061e09d</xr:TypeId>
+				<xr:ValueId>c6beeb38-cb10-440e-94ab-f3a2769365a4</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ВыдачаКниг</Name>
+			<Name>РазмещениеКнигПоПолкам</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Выдача книг</v8:content>
+					<v8:content>Размещение книг по полкам</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -43,13 +43,13 @@
 			<Characteristics/>
 			<BasedOn/>
 			<InputByString>
-				<xr:Field>Document.ВыдачаКниг.StandardAttribute.Number</xr:Field>
+				<xr:Field>Document.РазмещениеКнигПоПолкам.StandardAttribute.Number</xr:Field>
 			</InputByString>
 			<CreateOnInput>Use</CreateOnInput>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm>Document.ВыдачаКниг.Form.ФормаДокумента</DefaultObjectForm>
+			<DefaultObjectForm>Document.РазмещениеКнигПоПолкам.Form.ФормаДокумента</DefaultObjectForm>
 			<DefaultListForm/>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -69,12 +69,7 @@
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>Use</FullTextSearch>
-			<ObjectPresentation>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Выдача книги</v8:content>
-				</v8:item>
-			</ObjectPresentation>
+			<ObjectPresentation/>
 			<ExtendedObjectPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
@@ -85,46 +80,7 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="fcc7b692-2def-41c2-b438-68a102e2342f">
-				<Properties>
-					<Name>Читатель</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Читатель</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>cfg:CatalogRef.Читатели</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
-				</Properties>
-			</Attribute>
-			<Attribute uuid="de382005-372b-4f87-8efc-475f960241f6">
+			<Attribute uuid="0b134737-bd2e-4260-807c-76f36a88b473">
 				<Properties>
 					<Name>Сотрудник</Name>
 					<Synonym>
@@ -164,23 +120,23 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаДокумента</Form>
-			<TabularSection uuid="4eaf5bd2-14c4-4dbf-af1b-f19fc43102a9">
+			<TabularSection uuid="55bef8ab-9373-40e1-86e1-3fbab6741293">
 				<InternalInfo>
-					<xr:GeneratedType name="DocumentTabularSection.ВыдачаКниг.СписокКниг" category="TabularSection">
-						<xr:TypeId>0caa9992-e8ff-4f46-a606-e6f0af349da7</xr:TypeId>
-						<xr:ValueId>4c11d9dd-5d81-4a9c-abd1-665f9881fee6</xr:ValueId>
+					<xr:GeneratedType name="DocumentTabularSection.РазмещениеКнигПоПолкам.ПереченьКниг" category="TabularSection">
+						<xr:TypeId>ccc98e4a-c7be-4a19-a0c1-e02ad26f45de</xr:TypeId>
+						<xr:ValueId>4f65cb05-8949-4cd7-819a-35c491a47df1</xr:ValueId>
 					</xr:GeneratedType>
-					<xr:GeneratedType name="DocumentTabularSectionRow.ВыдачаКниг.СписокКниг" category="TabularSectionRow">
-						<xr:TypeId>54c7c2fc-d5ec-42b6-b912-25ef424df097</xr:TypeId>
-						<xr:ValueId>a6445c28-a1e1-415f-a963-c95b7f32af6d</xr:ValueId>
+					<xr:GeneratedType name="DocumentTabularSectionRow.РазмещениеКнигПоПолкам.ПереченьКниг" category="TabularSectionRow">
+						<xr:TypeId>adfc0c4b-597f-4582-998b-ddb4431217ec</xr:TypeId>
+						<xr:ValueId>85facca3-0efb-4650-ab6d-18379a9fce01</xr:ValueId>
 					</xr:GeneratedType>
 				</InternalInfo>
 				<Properties>
-					<Name>СписокКниг</Name>
+					<Name>ПереченьКниг</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Список книг</v8:content>
+							<v8:content>Перечень книг</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -188,7 +144,7 @@
 					<FillChecking>DontCheck</FillChecking>
 				</Properties>
 				<ChildObjects>
-					<Attribute uuid="0fdf6b76-a8af-42fc-9951-72ce48c19ed4">
+					<Attribute uuid="cdab556a-27c9-4f69-bbc9-8eaa0bcf8001">
 						<Properties>
 							<Name>Книга</Name>
 							<Synonym>
@@ -225,7 +181,7 @@
 							<DataHistory>Use</DataHistory>
 						</Properties>
 					</Attribute>
-					<Attribute uuid="322f350a-fdf0-4c5c-b721-50c23b04e324">
+					<Attribute uuid="9be50594-ebb4-40f5-9cf5-324e0cf7a92b">
 						<Properties>
 							<Name>Стелаж</Name>
 							<Synonym>
@@ -262,7 +218,7 @@
 							<DataHistory>Use</DataHistory>
 						</Properties>
 					</Attribute>
-					<Attribute uuid="3a89775a-31fa-456e-a041-582fbd3b5bab">
+					<Attribute uuid="f731a52b-0d7d-4e31-b67f-1815f4dc553e">
 						<Properties>
 							<Name>Полка</Name>
 							<Synonym>

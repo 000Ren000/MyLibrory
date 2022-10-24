@@ -222,6 +222,13 @@
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>РаботаСЧитателем</Subsystem>
+			<Subsystem>Сервис</Subsystem>
+			<Subsystem>Отчеты</Subsystem>
+			<CommonPicture>КартинкаСервис</CommonPicture>
+			<CommonPicture>КартинкаОтчеты</CommonPicture>
+			<CommonPicture>КартинкаЧитатель</CommonPicture>
+			<CommonPicture>КартинкаСправочники</CommonPicture>
+			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
 			<Catalog>Читатели</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Книгохранилище</Catalog>
@@ -231,6 +238,9 @@
 			<Catalog>АвторКниги</Catalog>
 			<Document>ВыдачаКниг</Document>
 			<Document>ВозвратКниг</Document>
+			<Document>РазмещениеКнигПоПолкам</Document>
+			<Report>МестаХраненияКниг</Report>
+			<AccumulationRegister>ОсвтаткиКнигНаПолках</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
